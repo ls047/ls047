@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ls047
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning nuxt js
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me instagram @ls047
+- 😄 Pronouns: ali
+- ⚡ Fun fact: my pc costs 150$
