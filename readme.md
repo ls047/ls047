@@ -1,3 +1,4 @@
+
 # Ali Khalil
 
 ### Full-Stack Developer | ASP.NET Core · React · PostgreSQL
@@ -46,28 +47,32 @@ Building modern web applications with responsive interfaces, structured APIs, an
 
 ## GITHUB STATISTICS
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=ls047&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=ls047\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ls047&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ls047\&layout=compact\&theme=tokyonight\&hide_border=true)" />
-\</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ls047&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ls047&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</div>
 
-\<p align="center">
-&#x20; \<img width="90%" src="[https://streak-stats.demolab.com/?user=ls047&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=ls047\&theme=tokyonight\&hide_border=true)" />
-\</p>
+<br />
+
+<div align="center">
+  <img width="90%" src="https://streak-stats.demolab.com/?user=ls047&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</div>
 
 ---
 
 ## CONNECT
 
-\<p align="center">
-&#x20; \<a href="[https://lastportfolio-ali.vercel.app/](https://lastportfolio-ali.vercel.app/)">
-&#x20;   \<img src="[https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge\&logo=vercel\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/ls047](https://github.com/ls047)">
-&#x20;   \<img src="[https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+<div align="center">
+  <a href="https://lastportfolio-ali.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/ls047">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-\<p align="center">   \<i>Building meaningful software through continuous learning and development.\</i> \</p>
+<div align="center">
+  <i>Building meaningful software through continuous learning and development.</i>
+</div>
