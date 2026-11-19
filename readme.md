@@ -1,61 +1,70 @@
-
 # Ali Khalil
 
-### Full-Stack Developer | ASP.NET Core · React · PostgreSQL
+### Full-Stack Developer | Vue.js · JavaScript · TypeScript
 
-Software developer passionate about building modern web applications, designing scalable backend systems, and creating clean, intuitive user experiences.
+Software developer focused on building modern web applications, developing reusable frontend components, and creating clean, responsive user interfaces.
 
-I enjoy turning ideas into practical solutions, exploring new technologies, and continuously improving my development skills.
+I enjoy exploring new technologies, building practical solutions, and working across the frontend and backend to turn ideas into functional products.
 
 **Portfolio:** [lastportfolio-ali.vercel.app](https://lastportfolio-ali.vercel.app/)
 
 ---
 
-## TECH STACK
-
-**Backend Development**
-
-C# · ASP.NET Core · Entity Framework Core · RESTful APIs
+## TECHNOLOGIES & TOOLS
 
 **Frontend Development**
 
-JavaScript · TypeScript · React.js · HTML5 · CSS3 · Tailwind CSS
+Vue.js · Nuxt · JavaScript · TypeScript · HTML5 · CSS3
 
-**Databases**
+**Styling & UI**
 
-PostgreSQL · SQL
+Tailwind CSS · UI Component Libraries · Responsive Design
 
-**Tools & Technologies**
+**Backend Development**
 
-Git · GitHub · Visual Studio · VS Code · Postman · Vite
+PHP · REST APIs
+
+**Tools & Platforms**
+
+Git · GitHub · VS Code · Postman · Vite
 
 ---
 
-## FEATURED PROJECTS
+## SELECTED PROJECTS
 
-### Exoplanet Data Challenge Platform
+### vue-ts-soa
+A Vue.js project template designed to accelerate development with TypeScript, UI libraries, reusable components, and essential frontend dependencies.
 
-Developing a web platform for an exoplanet data challenge, focusing on system architecture, backend development, and frontend integration.
+**Technologies:** Vue.js · TypeScript
 
-**Technologies:** ASP.NET Core · React.js · PostgreSQL
+### Weatherino
+A simple weather application featuring weather information powered by the OpenWeather API.
 
-### Web Application Development
+**Technologies:** Vue.js · Tailwind CSS · OpenWeather API
 
-Building modern web applications with responsive interfaces, structured APIs, and database-driven functionality.
+### Password Suit
+A public Vue-based project.
+
+**Technologies:** Vue.js
+
+### Nuxi
+A project built within the Vue.js ecosystem.
+
+**Technologies:** Vue.js
 
 ---
 
 ## GITHUB STATISTICS
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ls047&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ls047&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ls047&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ls047&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=ls047&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img width="90%" src="https://streak-stats.demolab.com/?user=ls047&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -64,15 +73,15 @@ Building modern web applications with responsive interfaces, structured APIs, an
 
 <div align="center">
   <a href="https://lastportfolio-ali.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/ls047">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <i>Building meaningful software through continuous learning and development.</i>
+  <i>Building, experimenting, and continuously improving.</i>
 </div>
